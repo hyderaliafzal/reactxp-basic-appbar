@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.42.3] /home/hyder/.android/build-cache/9c4243c300dc93c0d917e9743fe71dd20d8ea732/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [RXPHelloWorld:react-native-video:unspecified] /var/www/MyProject/node_modules/react-native-video/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/hyder/.android/build-cache/6849585588fb1cdb29385a646bc77df4882fc8fe/output/AndroidManifest.xml:8:5-10:41
+MERGED from [RXPHelloWorld:react-native-svg:unspecified] /var/www/MyProject/node_modules/react-native-svg/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.42.3] /home/hyder/.android/build-cache/9c4243c300dc93c0d917e9743fe71dd20d8ea732/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hyder/.android/build-cache/77a2d41b0deb6fe1f98921d05f9b2689ab562ce3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/hyder/.android/build-cache/cda6cec127b33c27f29006aef6a91e74652e2a8e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/hyder/.android/build-cache/374aba22859b357979f53ed286485d8796de9f4d/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /home/hyder/.android/build-cache/dde4454f824fd1f7c28d5d8a116f6228ef0d7d2b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /home/hyder/.android/build-cache/c28592ec965e0ac7f7d53e3224257513ccc03668/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /home/hyder/.android/build-cache/d94c0ccbb9d005f539dfb343fd2dcf173515de61/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /home/hyder/.android/build-cache/ca1c58d67974a5431fde06bcef81333d39d2debf/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /home/hyder/.android/build-cache/78913ddd3fccae4d9c2631422265bc629c7582ec/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] /home/hyder/.android/build-cache/fbb61f9e0a7f7ae1fe56f8c30f0b4cf35f38ed6c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/hyder/.android/build-cache/7ebdeba8e9b01c6dd4baa59d21f57616ff91e7eb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hyder/.android/build-cache/414d720a1999f7f6487d4e49e56d0b39749ed049/output/AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.42.3] /home/hyder/.android/build-cache/9c4243c300dc93c0d917e9743fe71dd20d8ea732/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/hyder/.android/build-cache/77a2d41b0deb6fe1f98921d05f9b2689ab562ce3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/hyder/.android/build-cache/fbb61f9e0a7f7ae1fe56f8c30f0b4cf35f38ed6c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hyder/.android/build-cache/414d720a1999f7f6487d4e49e56d0b39749ed049/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/hyder/.android/build-cache/807ab6a5b851b59a23b9a19cc397a2ba9095bdde/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.rxphelloworld.MainActivity
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /var/www/MyProject/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

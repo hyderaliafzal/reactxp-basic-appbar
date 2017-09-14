@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hyder/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_949eab974ac043aae40ea43a1d3b4a95117e6038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/fbb61f9e0a7f7ae1fe56f8c30f0b4cf35f38ed6c/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e43e92c13d889f49df92dcbad6cc1d154b349a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/414d720a1999f7f6487d4e49e56d0b39749ed049/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_035de4917a5d5c486fc6a868a8bf5195eb92ca00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/fbb61f9e0a7f7ae1fe56f8c30f0b4cf35f38ed6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_5ac4e20afa78b172642ae8af5905abca8986e0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/7ebdeba8e9b01c6dd4baa59d21f57616ff91e7eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_e38596ba452984df39a1bae0a36bb295a46da647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/9c4243c300dc93c0d917e9743fe71dd20d8ea732/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_58e52b585d6655eb92766d9dd69e2d77f4ec7d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/374aba22859b357979f53ed286485d8796de9f4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_7e7c030143abe9627f83e1789f8ecbd5d0573bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/c28592ec965e0ac7f7d53e3224257513ccc03668/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_4df092a6b47c40c8fa8d1fb461f60976882fbabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/MyProject/node_modules/react-native-svg/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34864a496b13260dbd0d87f6dc5ed83422eb9138">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_b9ddc85b7d9629f8f8879537a1f8f742f7868ea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/MyProject/node_modules/react-native-video/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6209875e01f8410f62dba6599ef8c73daadf80a">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_ddab67790f4c437360199d3d3ea57eb1e7bea851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_05c72f6020a224aa9b70c6fb07751def6c25eca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/d94c0ccbb9d005f539dfb343fd2dcf173515de61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_8face21aa6fdf645fc7bdd6aa1a8a6e0171e0048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/cda6cec127b33c27f29006aef6a91e74652e2a8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_6c3ad0555668491cda599e607d967467c9551631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_1830bbd77c7c05b2144212c5726dd46b8cf830ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d1791ac9415bbbcdadaf814013b7fe69a40f476b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1c607bcadb51ab9727863075778c2eb44cdf0a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/78913ddd3fccae4d9c2631422265bc629c7582ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_f9bcdb3a7fe02b0b74d3b7b8a878b88e60bcf8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/dde4454f824fd1f7c28d5d8a116f6228ef0d7d2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_7b28be230d6945ca1dd2ce3bc2cd9b93a6dc53ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/77a2d41b0deb6fe1f98921d05f9b2689ab562ce3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_9b5d441e0841dafca06347f6dbad2d0360e6382e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_493faa782e8574ced7b333f09596daabe42fdcf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_2f3765ad7f013af5c27b43f8e6b3bdd55dd7f3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/9c4243c300dc93c0d917e9743fe71dd20d8ea732/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_552a3a8713efac02d4c0edd052d729dc05143002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/ca1c58d67974a5431fde06bcef81333d39d2debf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_0323235e658e70ea8168a3bad2ddb77e48cee3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8678d375511b5893aac1d1d91e48e8fcd182f372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.android/build-cache/6849585588fb1cdb29385a646bc77df4882fc8fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/classes_b303c80444ca1b04f08653ef960e8c17dadc9d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_7c06087b1ba54cfac7f5c328d909c6278d99603c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyder/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/var/www/MyProject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_6b0b4ee6167a092391f6126ce8955c37cdef5273.jar" />
+    </item>
+
+</items>

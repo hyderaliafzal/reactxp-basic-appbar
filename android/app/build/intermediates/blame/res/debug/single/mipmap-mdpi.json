@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "/var/www/MyProject/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/var/www/MyProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
